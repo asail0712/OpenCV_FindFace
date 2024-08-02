@@ -19,12 +19,12 @@
 - 使用OpenCV對畫面做臉部偵測
 
 # 5.其他
-無
-
+### 參考資料
+- [Advanced Tutorial-OpenCV in Unity](https://www.youtube.com/watch?v=lXvt66A0i3Q))
+- [OpenCV Haarcascades](https://github.com/opencv/opencv/tree/master/data/haarcascades)
+  
 # 6.聯繫方式和鳴謝
 Email: asail0712@gmail.com
 
 # 7. 附加資源
-### 感謝
-- [Advanced Tutorial-OpenCV in Unity](https://www.youtube.com/watch?v=lXvt66A0i3Q))
-- [OpenCV Haarcascades](https://github.com/opencv/opencv/tree/master/data/haarcascades)
+無
