@@ -154,6 +154,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aecf6f5e3b46f4f4a843939c5a1a2865, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  minNeighbor: 6
+  scalorFactor: 1.03
+  cameraIdx: 0
+  minSize:
+    Width: 200
+    Height: 200
+  maxSize:
+    Width: 300
+    Height: 300
+  renderer: {fileID: 338208842}
 --- !u!64 &338208841
 MeshCollider:
   m_ObjectHideFlags: 0

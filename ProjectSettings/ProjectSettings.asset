@@ -161,6 +161,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
+    Android: com.DefaultCompany.OpenCVDemo2
     Standalone: com.DefaultCompany.OpenCVDemo2
   buildNumber:
     Standalone: 0
